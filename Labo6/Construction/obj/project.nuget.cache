@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uyFbR7WQhGettpeZ3o3ZhaWFTTHq9V32H24I1xO+b2GXSEX/byhTTE7RDoQjj430Nt/AQOXNweRYhsVwcu9H7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\2131920\\Documents\\Code\\Prog2\\420-jpa-jq_laboratoire6-CotLou2131920\\Labo6\\Construction\\Construction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\2131920\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\2131920\\.nuget\\packages\\humanizer.core.fr\\2.14.1\\humanizer.core.fr.2.14.1.nupkg.sha512"
+  ],
+  "logs": []
+}
