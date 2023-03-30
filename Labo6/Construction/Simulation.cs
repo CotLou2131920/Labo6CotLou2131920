@@ -58,6 +58,7 @@ namespace Construction
                 {
                     Console.WriteLine("Bravo la ville est reconstruite !!!");
                     JeuFini = true;
+                    Thread.Sleep(5000);
                     Console.Clear();
                 }
             }
