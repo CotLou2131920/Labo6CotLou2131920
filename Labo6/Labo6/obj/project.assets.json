@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\2131920\\Documents\\Code\\Prog2\\420-jpa-jq_laboratoire6-CotLou2131920\\Labo6\\Labo6\\AmitieNamespace.csproj",
+      "projectUniqueName": "C:\\Users\\2131920\\Documents\\Code\\Prog2\\Labo6CotLou2131920\\Labo6\\Labo6\\AmitieNamespace.csproj",
       "projectName": "AmitieNamespace",
-      "projectPath": "C:\\Users\\2131920\\Documents\\Code\\Prog2\\420-jpa-jq_laboratoire6-CotLou2131920\\Labo6\\Labo6\\AmitieNamespace.csproj",
+      "projectPath": "C:\\Users\\2131920\\Documents\\Code\\Prog2\\Labo6CotLou2131920\\Labo6\\Labo6\\AmitieNamespace.csproj",
       "packagesPath": "C:\\Users\\2131920\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\2131920\\Documents\\Code\\Prog2\\420-jpa-jq_laboratoire6-CotLou2131920\\Labo6\\Labo6\\obj\\",
+      "outputPath": "C:\\Users\\2131920\\Documents\\Code\\Prog2\\Labo6CotLou2131920\\Labo6\\Labo6\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

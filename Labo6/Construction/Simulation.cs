@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Channels;
 using System.Threading.Tasks;
+using System.Drawing;
+using Console = Colorful.Console;
 
 namespace Construction
 {
@@ -30,13 +32,15 @@ namespace Construction
 
         public void AffichageDeJeu()
         {
+            int nbTour = 1;
             Console.WriteLine("Bienvenue, Nous avont du travail a faire ! ! \n");
             bool JeuFini = false;
             while (!JeuFini)
             {
+                Console.WriteAscii($"Tour {nbTour}");
                 ville.AfficheVille();
-                Console.WriteLine("Comme tu peut le voir certains batiment de la ville ont été detruit \n" +
-                    "Cest a toi de decider quelle batiment réparer en premier et quelle robot utiliser \n" +
+                Console.WriteLine($"tu as des batiments de ta ville a reconstruire tu es dans le menu des options\n" +
+                    "Voici les robots mis a ta disposition = Robot de destruction : "+ (usi.robot[0].disponible ? "disponible " : "indisponible ") + "|| Robot de transport : "+ (usi.robot[1].disponible ? "disponible " : "indisponible ")+ "|| Robot de construction : "+ (usi.robot[2].disponible ? "disponible " : "indisponible ")+"  \n" +
                     "Commence par choisir parmis les 5 Batiment lequel veut-tu réparer ? ( 1 / 2 / 3 / 4 / 5 ) \n" +
                     "Passer un tour (0) <-- Permet de rendre les robots envoyer à nouveau \n");
                 int choix = Convert.ToInt16(Console.ReadLine());
@@ -45,11 +49,12 @@ namespace Construction
                     for (int i = 0; i < 3; i++)
                         usi.robot[i].disponible = true;
                     Thread.Sleep(5000);
-
+                    Console.Clear();
+                    nbTour++;
                 }
                 else
                     MenuBatiment(ville.bati[choix-1]);
-                if (ville.bati[0].etatBatiment ==  Statut.parfait && ville.bati[1].etatBatiment == Statut.parfait  && ville.bati[2].etatBatiment == Statut.parfait && ville.bati[3].etatBatiment == Statut.parfait && ville.bati[5].etatBatiment == Statut.parfait) 
+                if (ville.bati[0].etatBatiment ==  Statut.parfait && ville.bati[1].etatBatiment == Statut.parfait  && ville.bati[2].etatBatiment == Statut.parfait && ville.bati[3].etatBatiment == Statut.parfait && ville.bati[4].etatBatiment == Statut.parfait) 
                 {
                     Console.WriteLine("Bravo la ville est reconstruite !!!");
                     JeuFini = true;
@@ -105,29 +110,6 @@ namespace Construction
                 Console.Clear();
             }
         }
-
-        public void VerifieEtatVille()
-        {
-            
-        }
-
-        //public void TrouveBatiProche()
-        //{
-            
-        //    int refDistance = 100;
-        //    int batiPlusProche = 0;
-
-        //    int i = 0;
-        //    for (; i < ville.bati.Length; i++)
-        //    {
-        //        if (ville.bati[i].PositionX + ville.bati[i].PositionY < refDistance)
-        //        {
-        //            refDistance = ville.bati[i].PositionX + ville.bati[i].PositionY;
-        //            batiPlusProche = i;
-        //        }
-        //    }
-        //    Console.WriteLine(ville.bati[batiPlusProche]);
-        //}
 
     }
 }

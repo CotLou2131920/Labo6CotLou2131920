@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\2131920\\Documents\\Code\\Prog2\\420-jpa-jq_laboratoire6-CotLou2131920\\Labo6\\Construction\\Construction.csproj": {}
+    "C:\\Users\\2131920\\Documents\\Code\\Prog2\\Labo6CotLou2131920\\Labo6\\Construction\\Construction.csproj": {}
   },
   "projects": {
-    "C:\\Users\\2131920\\Documents\\Code\\Prog2\\420-jpa-jq_laboratoire6-CotLou2131920\\Labo6\\Construction\\Construction.csproj": {
+    "C:\\Users\\2131920\\Documents\\Code\\Prog2\\Labo6CotLou2131920\\Labo6\\Construction\\Construction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\2131920\\Documents\\Code\\Prog2\\420-jpa-jq_laboratoire6-CotLou2131920\\Labo6\\Construction\\Construction.csproj",
+        "projectUniqueName": "C:\\Users\\2131920\\Documents\\Code\\Prog2\\Labo6CotLou2131920\\Labo6\\Construction\\Construction.csproj",
         "projectName": "Construction",
-        "projectPath": "C:\\Users\\2131920\\Documents\\Code\\Prog2\\420-jpa-jq_laboratoire6-CotLou2131920\\Labo6\\Construction\\Construction.csproj",
+        "projectPath": "C:\\Users\\2131920\\Documents\\Code\\Prog2\\Labo6CotLou2131920\\Labo6\\Construction\\Construction.csproj",
         "packagesPath": "C:\\Users\\2131920\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\2131920\\Documents\\Code\\Prog2\\420-jpa-jq_laboratoire6-CotLou2131920\\Labo6\\Construction\\obj\\",
+        "outputPath": "C:\\Users\\2131920\\Documents\\Code\\Prog2\\Labo6CotLou2131920\\Labo6\\Construction\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -43,6 +43,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Colorful.Console": {
+              "target": "Package",
+              "version": "[1.2.15, )"
+            },
             "Humanizer.Core.fr": {
               "target": "Package",
               "version": "[2.14.1, )"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yY1hVn9KLe47zyNSbTrbjslC7WWQY1ZFkWr7tGrov90u2qOr7bV68c+ACNWpAQjNmmLCGvlIPL6pwPeBiox4AA==",
+  "dgSpecHash": "ya31cG4QzcSB5NFqnK6NWNBudl0h/CP8Z56+snLOM9p38CxmlHerPcV4mOomSlZG0xGwuzf9PWlJ2mueZawSUw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\2131920\\Documents\\Code\\Prog2\\420-jpa-jq_laboratoire6-CotLou2131920\\Labo6\\Nuget\\Nuget.csproj",
+  "projectFilePath": "C:\\Users\\2131920\\Documents\\Code\\Prog2\\Labo6CotLou2131920\\Labo6\\Nuget\\Nuget.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\2131920\\.nuget\\packages\\colorful.console\\1.2.15\\colorful.console.1.2.15.nupkg.sha512",
     "C:\\Users\\2131920\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
