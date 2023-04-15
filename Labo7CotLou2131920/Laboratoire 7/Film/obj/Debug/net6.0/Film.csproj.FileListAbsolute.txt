@@ -1,0 +1,15 @@
+C:\Users\2131920\Documents\Code\Prog2\Labo6CotLou2131920\Labo7CotLou2131920\Laboratoire 7\Film\bin\Debug\net6.0\Film.exe
+C:\Users\2131920\Documents\Code\Prog2\Labo6CotLou2131920\Labo7CotLou2131920\Laboratoire 7\Film\bin\Debug\net6.0\Film.deps.json
+C:\Users\2131920\Documents\Code\Prog2\Labo6CotLou2131920\Labo7CotLou2131920\Laboratoire 7\Film\bin\Debug\net6.0\Film.runtimeconfig.json
+C:\Users\2131920\Documents\Code\Prog2\Labo6CotLou2131920\Labo7CotLou2131920\Laboratoire 7\Film\bin\Debug\net6.0\Film.dll
+C:\Users\2131920\Documents\Code\Prog2\Labo6CotLou2131920\Labo7CotLou2131920\Laboratoire 7\Film\bin\Debug\net6.0\Film.pdb
+C:\Users\2131920\Documents\Code\Prog2\Labo6CotLou2131920\Labo7CotLou2131920\Laboratoire 7\Film\obj\Debug\net6.0\Film.csproj.AssemblyReference.cache
+C:\Users\2131920\Documents\Code\Prog2\Labo6CotLou2131920\Labo7CotLou2131920\Laboratoire 7\Film\obj\Debug\net6.0\Film.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2131920\Documents\Code\Prog2\Labo6CotLou2131920\Labo7CotLou2131920\Laboratoire 7\Film\obj\Debug\net6.0\Film.AssemblyInfoInputs.cache
+C:\Users\2131920\Documents\Code\Prog2\Labo6CotLou2131920\Labo7CotLou2131920\Laboratoire 7\Film\obj\Debug\net6.0\Film.AssemblyInfo.cs
+C:\Users\2131920\Documents\Code\Prog2\Labo6CotLou2131920\Labo7CotLou2131920\Laboratoire 7\Film\obj\Debug\net6.0\Film.csproj.CoreCompileInputs.cache
+C:\Users\2131920\Documents\Code\Prog2\Labo6CotLou2131920\Labo7CotLou2131920\Laboratoire 7\Film\obj\Debug\net6.0\Film.dll
+C:\Users\2131920\Documents\Code\Prog2\Labo6CotLou2131920\Labo7CotLou2131920\Laboratoire 7\Film\obj\Debug\net6.0\refint\Film.dll
+C:\Users\2131920\Documents\Code\Prog2\Labo6CotLou2131920\Labo7CotLou2131920\Laboratoire 7\Film\obj\Debug\net6.0\Film.pdb
+C:\Users\2131920\Documents\Code\Prog2\Labo6CotLou2131920\Labo7CotLou2131920\Laboratoire 7\Film\obj\Debug\net6.0\Film.genruntimeconfig.cache
+C:\Users\2131920\Documents\Code\Prog2\Labo6CotLou2131920\Labo7CotLou2131920\Laboratoire 7\Film\obj\Debug\net6.0\ref\Film.dll
